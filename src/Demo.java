@@ -5,4 +5,8 @@ public class Demo {
         System.out.println("Hellow Yogesh...Edit1(GitHub)..." +
                 "Intergrated with GitHub desktop..");
     }
+
+    public void LoginTest(){
+        System.out.println("LoginTest Automation.");
+    }
 }
